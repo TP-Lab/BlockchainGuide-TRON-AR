@@ -23,7 +23,7 @@
 **
 
 ![钱包类别 示意图](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1597392323714.png "钱包类别")
-<center>صفحة إنشاء محفظة ترون في TokenPocket</center>
+<center>TokenPocket صفحة إنشاء محفظة ترون في</center>
 
 ### استيراد المفتاح الخاص
 
